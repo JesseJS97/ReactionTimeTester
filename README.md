@@ -12,3 +12,4 @@ This script shows my basic understanding of the fundamentals of python with room
 # Future improvements
 1. More innovative and presentable table format
 2. Provide a leaderboard
+3. Test cases using PyTest library
